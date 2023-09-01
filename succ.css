@@ -1,0 +1,16 @@
+*{
+    background-color: #1A2226;
+    color: #ECF0F5;
+    text-align: center;
+    font-size: 2rem;
+}
+p{
+    font-size: larger;
+    color: aliceblue;
+
+}
+div a{
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: aqua;
+}
